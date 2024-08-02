@@ -1,0 +1,8 @@
+﻿در فایل 
+appsetting.services.json 
+پروژه CounetrpartWeb
+ مانند فایل نمونه در قسمت
+ CCSServices
+ قسمت
+ User
+ دو آدرس نوشته شده اضافه گردد

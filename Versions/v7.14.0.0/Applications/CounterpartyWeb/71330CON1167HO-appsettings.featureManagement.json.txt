@@ -1,0 +1,5 @@
+﻿موارد موجود در فایل
+71330CON1167HO-appsettings.featureManagement.json
+را در فایل 
+appsettings.featureManagement.json
+به عنوان کلید جدید اضافه کنید

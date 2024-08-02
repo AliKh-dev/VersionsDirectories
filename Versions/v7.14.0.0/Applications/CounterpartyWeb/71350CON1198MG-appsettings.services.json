@@ -1,0 +1,8 @@
+{
+  "CCSServices": {
+    "User": {
+      "GetUsersOfSupervisedBranches": "User/GetUsersOfSupervisedBranches",
+      "GetListByBranchIds": "User/GetListByBranchIds"
+    }
+  }
+}

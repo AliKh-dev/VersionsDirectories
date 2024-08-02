@@ -1,0 +1,14 @@
+{
+  "FeatureManagement": {
+    "Configs": {
+      "1": {
+        "CustomerRelationCreator": false,
+        "CustomerRelationRemover": false
+      },
+      "2": {
+        "CustomerRelationCreator": true,
+        "CustomerRelationRemover": true
+      }
+    }
+  }
+}
