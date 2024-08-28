@@ -1,0 +1,5 @@
+﻿موارد موجود در
+71510CON1222HS-appsettings.services.json
+را در فایل 
+appsettings.services.json
+اضافه کنید.

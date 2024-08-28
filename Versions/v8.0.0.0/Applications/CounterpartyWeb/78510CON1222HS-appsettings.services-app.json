@@ -1,0 +1,7 @@
+﻿{
+  "CommonServices": {
+    "Customer": {
+      "Delete": "api/Customer/Delete"
+    }
+  }
+}
